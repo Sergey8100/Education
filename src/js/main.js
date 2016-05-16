@@ -170,5 +170,5 @@ function printRes(arr) {
             sum = sum + +arr[i];
         }
     }
-    alert (sum2);
+    alert (sum);
 }
